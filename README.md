@@ -24,6 +24,8 @@ node src/bamazon-manager.js
 
 #### Customer
 
+##### Purchase Product
+
 ![Customer Shot 1](./assets/img/customer.png)
 ![Customer Shot 2](./assets/img/customer2.png)
 ![Customer Shot 3](./assets/img/customer3.png)
