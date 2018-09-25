@@ -1,0 +1,18 @@
+"item_id","product_name","department_name","price","stock_quantity"
+1,"laptop computer","electronics",899.95,12
+2,"ergonomic keyboard","electronics",120.49,23
+3,"insulated beverage bottle","sports & outdoors",39.95,18
+4,"bamboo lap desk","office supplies",69.95,8
+5,"over-ear headphones","electronics",59.45,30
+6,"python tricks","books",9.99,14
+7,"the thief of always","books",8.95,5
+8,"ergonomic mouse","electronics",70.95,18
+9,"messenger bag","wearable accessories",130.00,10
+10,"digital wrist watch","sports accessories",19.25,33
+11,"knee brace","sports accessories",14.95,27
+12,"notebook","office supplies",3.75,45
+13,"black belt","wearable accessories",7.95,22
+14,"portable camping chair","sports & outdoors",98.99,13
+15,"the eyes of the dragon","books",11.95,4
+16,"a smarter way to learn python","books",19.99,13
+17,"swiss army knife","sports & outdoors",65.95,28
