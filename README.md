@@ -16,6 +16,10 @@ node src/bamazon-customer.js
 node src/bamazon-manager.js
 ```
 
+### SQL Schema
+
+[SQL Schema](./assets/sql/schema.sql)
+
 ### CSV File for Import
 
 [Product Table CSV](./assets/csv/product_view.csv)
